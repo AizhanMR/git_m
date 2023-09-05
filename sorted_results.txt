@@ -1,0 +1,11 @@
+results
+name: Akyl  rate: 10
+name: Aizhan  rate: 8
+name: Umar  rate: 8
+name: Bekzat  rate: 5
+name: Temirlan  rate: 3
+name: Aidana  rate: 3
+name: Ulugbek  rate: 2
+name: Shahnoza  rate: 1
+name: Nurbol  rate: 1
+name: Nazgul  rate: 0
