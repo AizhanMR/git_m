@@ -28,9 +28,25 @@
 #
 # while counter != 0:
 #     print('Geeks. Python, first month, final test!')
-#     counter -= 1
+#     counter -=
 
-mn = 24
-set(mn)
+import random
 
-print(type(mn))
+question = input('enter your question: ')
+emb = random.randint(1, 7)
+
+
+if emb == 1:
+  print('Yes')
+elif emb == 2:
+  print('No')
+elif emb == 3:
+    print('Without a doubt')
+elif emb == 4:
+    print('Ask again later')
+elif emb == 5:
+    print('Better not to tell you now')
+elif emb == 6:
+    print('You are a fool if you think so')
+else:
+  print('he he hehhe')
